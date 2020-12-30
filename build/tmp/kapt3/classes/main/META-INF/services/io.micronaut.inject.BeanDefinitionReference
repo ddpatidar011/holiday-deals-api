@@ -1,0 +1,3 @@
+com.tgt.holidaydeal.controller.$HolidayDealsControllerDefinitionClass
+com.tgt.holidaydeal.repository.$HolidayDealsRepository$InterceptedDefinitionClass
+com.tgt.holidaydeal.services.$HolidayDealsServiceDefinitionClass
